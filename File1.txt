@@ -1,1 +1,2 @@
 hi
+Modifying file for testing Branching with Conflict under phase 2 branch
