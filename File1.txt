@@ -2,4 +2,4 @@ hi
 
 testing merging with conflict
 Modifying file for testing Branching with Conflict under phase 2 branch
-
+Updating using github GUI i.e making changes at the remote.
